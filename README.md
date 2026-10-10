@@ -1,225 +1,261 @@
-# Awesome-Sales-Engagement-Platform-Sep
+<div align="center">
 
-## Top Sales Engagement Platform (SEP) Ecosystem
+![Awesome Sales Engagement Platforms](assets/banner.svg)
 
+# 🚀 Awesome Sales Engagement Platform (SEP) Ecosystem
 
+**Curated List of Commercial SaaS Products & Self-Hosted Open-Source Sales Engagement Platforms**
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Focused on Multi-Channel Sequences, Cold Email Automation, AI SDR Agents, B2B Lead Generation & Revenue Intelligence*
 
-*Focused on Multi-Channel Sequences, Outreach Automation & Self-Hosted Engagement Platforms*  
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Engagement-Platform-Sep/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Engagement-Platform-Sep?style=flat-square&color=gold" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Engagement-Platform-Sep/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Sales-Engagement-Platform-Sep?style=flat-square&color=blue" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Engagement-Platform-Sep/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Last updated: October 2026**
+---
 
+</div>
 
+## 📌 Executive Overview & Ecosystem Trends
 
-This repository tracks notable **commercial sales engagement platforms** and **open-source projects** that automate multi-channel outreach — email sequences, LinkedIn actions, calling, and personalized follow-ups — to help sales teams book more meetings and engage prospects at scale.
+This repository tracks top-tier **commercial sales engagement platforms (SEPs)** and **open-source sales automation tools** designed to orchestrate multi-channel outreach — including automated cold email sequences, LinkedIn messaging cadences, phone dialers, buying signal monitoring, and AI SDR personalization.
 
+### 🌟 Key Industry Highlights (Updated 2026)
+- **🤖 Autonomous AI SDRs**: Transitioning from static multi-step cadence templates to LLM-driven autonomous agents capable of research, qualification, personalized copy generation, and automated objection handling.
+- **✉️ Deliverability Infrastructure**: Increasing sender reputation requirements (SPF, DKIM, DMARC, automated inbox warm-up, dedicated domain rotation) across both commercial and self-hosted tools.
+- **🌐 Open-Source Growth**: Self-hosted alternatives empower privacy-conscious sales teams to maintain full control over lead databases, custom LLM APIs, and LinkedIn session state without per-seat overhead.
 
+---
 
-**Examples** include Salesforce Sales Engagement, Salesloft, Outreach, Groove, Apollo.io, Yesware, Mixmax, Mailshake, Woodpecker, and Reply.io (the category leaders).
+## 📚 Table of Contents
 
+- [🏢 SaaS / Hosted Sales Engagement Platforms](#-saas--hosted-sales-engagement-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architectural Recommendations](#️-architectural-recommendations)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer & Security Guidelines](#️-disclaimer--security-guidelines)
 
+---
 
-**Open-source emphasis**: Sales engagement is a rapidly growing open-source domain. **Linki** leads as a self-hosted LinkedIn and cold email AI SDR with multichannel campaigns, server-side LinkedIn login, and unified inbox . **Emareach** delivers production-grade email outreach with deliverability warm-up, SPF/DKIM/DMARC checks, and billing infrastructure . **OutreachPro** brings a complete self-hosted Instantly.ai clone with Claude AI personalization, Google Maps scraping, and CRM pipeline . **Signal** provides AI sales intelligence with buying signal detection, contact enrichment, and multi-step email sequences . **OpenOutreach** offers autonomous B2B lead discovery with licensed data and LLM qualification . **Radiant AI CRM** acts as an autonomous AI sales rep that analyzes pipeline and drafts next actions . **Mautic** delivers the deepest open-source marketing automation with visual campaign builder and lead scoring .
+## 🏢 SaaS / Hosted Sales Engagement Platforms
 
+> 📊 **Market Insights**: The global **Sales Engagement Platform (SEP) market** was valued at **~$7.4 Billion in 2024** and is projected to reach **~$18.6 Billion by 2032** (CAGR of ~12.2%). The sector is **moderately fragmented**, characterized by dominant enterprise category leaders (*Salesforce, Outreach, Salesloft, Apollo.io*) operating alongside a dynamic ecosystem of high-growth AI SDR startups and specialized outreach tools targeting SMBs and mid-market sales teams.
 
+### 📊 Commercial SEP Comparison Matrix
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+*The following table is sorted by **Company Scale (Valuation / Revenue)** in descending order.*
 
+| 🏢 SaaS Platform | 💰 Starting Price | 🎁 Free Tier / Free Trial | 📈 Company Scale (Revenue / Valuation) |
+| :--- | :--- | :--- | :--- |
+| **[Salesforce Sales Engagement](https://www.salesforce.com/products/sales-cloud/features/sales-engagement/)**<br>Native Salesforce cadences, Einstein AI lead scoring, and automated email tracking for enterprise workflows. | `$75/user/month` | `30-day free trial (no credit card required)` | **~$280 Billion Market Cap** (~$34.9B ARR) |
+| **[Outreach](https://www.outreach.io/)**<br>Enterprise revenue workflow platform with multi-channel sequences, deal intelligence, and sentiment analytics. | `$100/user/month` | `14-day interactive test-drive trial` | **$4.4 Billion Valuation** (Series F) |
+| **[Apollo.io](https://www.apollo.io/)**<br>All-in-one sales intelligence & SEP with 275M+ B2B contact database, email cadences, and built-in dialer. | `$49/user/month` | `Free Forever plan (60 mobile credits & 120 export credits/yr)` | **$1.6 Billion Valuation** (Series D, ~$100M+ ARR) |
+| **[Groove](https://www.groove.co/)**<br>Salesforce-native sales engagement platform automating activity logging, cadences, and meeting scheduling. | `$45/user/month` | `14-day free trial with Salesforce sandbox setup` | **$1.2 Billion Valuation** (Acquired by Clari) |
+| **[Salesloft](https://www.salesloft.com/)**<br>Enterprise SEP standard featuring multi-channel cadences, conversation intelligence, and pipeline management. | `$75/user/month` | `14-day free trial upon demo request` | **$1.1 Billion Valuation** (Acquired by Vista Equity) |
+| **[Mixmax](https://mixmax.com/)**<br>Gmail-native email engagement platform with embedded calendar scheduling, polls, and CRM sync. | `$29/user/month` | `Free Forever plan (100 trackable emails/mo + 1-on-1 scheduling)` | **~$25M – $50M ARR** |
+| **[Reply.io](https://reply.io/)**<br>Multi-channel sales engagement platform powered by AI SDR agents for email, LinkedIn, and phone sequences. | `$49/user/month` | `14-day free trial (200 credits + AI SDR access)` | **~$15M – $25M ARR** |
+| **[Mailshake](https://mailshake.com/)**<br>Dedicated cold email & outreach platform with integrated VoIP dialer, lead catcher, and deliverability warm-up. | `$58/user/month` | `7-day trial with 30-day money-back guarantee` | **~$10M – $20M ARR** |
+| **[Woodpecker](https://woodpecker.co/)**<br>Cold email automation for agencies & SMBs with adaptive sending, condition-based cadences, and deliverability monitoring. | `$29/month` | `7-day free trial (contact up to 50 prospects)` | **~$10M ARR** (Publicly Traded on NewConnect: WPK) |
+| **[Yesware](https://www.yesware.com/)**<br>Email tracking and sequence solution embedded directly inside Gmail and Outlook inbox interfaces. | `$15/user/month` | `14-day free trial (full feature access, no credit card required)` | **~$10M ARR** (Acquired by Lineup/Audiencity) |
 
+---
 
-## Table of Contents
+## 🔓 Open-Source GitHub Projects
 
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
+Below is a curated selection of premier **open-source sales engagement platforms, AI SDR agents, CRM foundations, and multi-channel outreach tools**.
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+*Sorted by **GitHub Star Count** in descending order.*
 
-- [How to Contribute](#how-to-contribute)
+---
 
-- [Disclaimer](#disclaimer)
+### 1. 🥇 Twenty CRM — Open-Source Enterprise SEP & CRM
+[![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
 
+- **Repo**: [twentyhq/twenty](https://github.com/twentyhq/twenty)
+- **License**: AGPL-3.0
+- **Overview**: Modern open-source alternative to Salesforce & HubSpot. Features customizable pipeline management, deal tracking, automated sales workflows, email synchronization, and extensible GraphQL APIs.
+- **Best For**: Sales teams seeking a modern self-hosted CRM foundation with customizable outreach logic.
 
+---
 
-## SaaS/Hosted Platforms
+### 2. 🥈 Cal.com — Open-Source Scheduling Infrastructure
+[![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)
 
+- **Repo**: [calcom/cal.com](https://github.com/calcom/cal.com)
+- **License**: AGPL-3.0
+- **Overview**: Production-ready open-source scheduling infrastructure. Essential component for sales engagement workflows — supports round-robin lead routing, automated calendar booking links, multi-host meeting scheduling, and webhook triggers.
+- **Best For**: Integrating frictionless meeting booking into cold outreach sequences and AI SDR workflows.
 
+---
 
-- **[Salesloft](https://www.salesloft.com/)**  
+### 3. 🥉 Chatwoot — Customer & Prospect Engagement Platform
+[![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
 
-  **The enterprise SEP standard** — multi-channel cadences, conversation intelligence, and revenue intelligence. **Best for enterprise sales teams**.
+- **Repo**: [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+- **License**: MIT
+- **Overview**: Multi-channel customer communications center. Unifies live chat, email, WhatsApp, Line, and social media interactions into a shared sales inbox with automated chatbots and agent routing.
+- **Best For**: Managing real-time inbound sales inquiries and multi-channel conversational followup.
 
+---
 
+### 4. ⚡ Activepieces — Open-Source Business & Sales Automation
+[![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
 
-- **[Outreach](https://www.outreach.io/)**  
+- **Repo**: [activepieces/activepieces](https://github.com/activepieces/activepieces)
+- **License**: MIT
+- **Overview**: Open-source alternative to Zapier & Make. Provides no-code / low-code workflow automation specifically designed for trigger-based sales pipelines, AI enrichment webhooks, and CRM auto-updates.
+- **Best For**: Orchestrating custom, automated outreach workflows across disparate sales tools.
 
-  **Leading sales engagement platform** — sequences, deal intelligence, and revenue operations. **Best for data-driven sales organizations**.
+---
 
+### 5. ✉️ Listmonk — High-Performance Bulk Email & Newsletter Engine
+[![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
 
+- **Repo**: [knadh/listmonk](https://github.com/knadh/listmonk)
+- **License**: AGPL-3.0
+- **Overview**: Ultra-fast single Go binary with Vue JS dashboard. Capable of dispatching millions of emails using self-hosted SMTP infrastructure with zero per-subscriber costs, detailed rate-limiting, and subscriber segmentation.
+- **Best For**: High-volume mailing lists, product launch broadcasts, and bulk prospect notifications.
 
-- **[Apollo.io](https://www.apollo.io/)**  
+---
 
-  **All-in-one sales intelligence and engagement** — 275M+ contact database, email sequences, and dialer. **Best for SMBs wanting data + outreach in one**.
+### 6. 📢 Mautic — World's Largest Marketing & Sales Automation Engine
+[![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
 
+- **Repo**: [mautic/mautic](https://github.com/mautic/mautic)
+- **License**: GPL-3.0
+- **Overview**: Comprehensive open-source marketing and lead engagement platform. Features visual drip campaign builder, lead scoring models, form capture, contact tracking, and automated multi-channel messaging.
+- **Best For**: Enterprise-grade visual campaign sequences and deep lead scoring workflows.
 
+---
 
-- **[Groove](https://www.groove.co/)**  
+### 7. 💼 SuiteCRM — Open-Source Enterprise Sales CRM
+[![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
 
-  **Sales engagement for Salesforce** — native integration with Salesforce for activity capture and sequences. **Best for Salesforce-centric teams**.
+- **Repo**: [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM)
+- **License**: AGPL-3.0
+- **Overview**: Battle-tested open-source enterprise CRM software. Delivers lead management, sales pipeline tracking, contract quotes, email marketing campaigns, and workflow automation.
+- **Best For**: Traditional B2B enterprise sales management requiring extensive customization options.
 
+---
 
+### 8. 🌐 Erxes — Open-Source Experience & Sales Engagement Suite
+[![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
 
-- **[Yesware](https://www.yesware.com/)**  
+- **Repo**: [erxes/erxes](https://github.com/erxes/erxes)
+- **License**: AGPL-3.0
+- **Overview**: All-in-one open-source sales, marketing, and customer care platform. Includes lead capturing forms, team inbox, visual pipeline boards, email campaigns, and contact enrichment.
+- **Best For**: Mid-market sales teams looking for a unified self-hosted customer operating system.
 
-  **Email engagement for Gmail and Outlook** — tracking, templates, and sequences. **Best for individual reps and small teams**.
+---
 
+### 9. 🗂️ EspoCRM — Lightweight Sales & Lead Management Platform
+[![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)
 
+- **Repo**: [espocrm/espocrm](https://github.com/espocrm/espocrm)
+- **License**: GPL-3.0
+- **Overview**: Fast PHP/MySQL open-source CRM application tailored for tracking leads, accounts, opportunities, automated email sequences, and custom workflow rules.
+- **Best For**: Lean sales teams looking for a lightweight, fast self-hosted CRM setup.
 
-- **[Mixmax](https://mixmax.com/)**  
+---
 
-  **Email engagement with scheduling** — sequences, polls, and meeting scheduling. **Best for Gmail power users**.
+### 10. 🎯 Signal — AI Sales Intelligence & Signal-Based Outreach
+[![GitHub stars](https://img.shields.io/github/stars/jay-sahnan/signal?style=social&color=white)](https://github.com/jay-sahnan/signal/stargazers)
 
+- **Repo**: [jay-sahnan/signal](https://github.com/jay-sahnan/signal)
+- **License**: MIT
+- **Overview**: Open-source alternative to Clay and Apollo. Features a buying triggers engine (monitoring funding, hiring changes, product launches), automated profile enrichment, and multi-step Gmail outreach sequences.
+- **Best For**: Modern signal-led outbound sales execution with bring-your-own LLM key flexibility.
 
+---
 
-- **[Mailshake](https://mailshake.com/)**  
+### 11. 🤖 Linki — Open-Source Multi-Channel AI SDR
+[![GitHub stars](https://img.shields.io/github/stars/moaljumaa/linki?style=social&color=white)](https://github.com/moaljumaa/linki/stargazers)
 
-  **Cold email and sales engagement** — sequences, lead catcher, and phone dialer. **Best for cold outreach focused teams**.
+- **Repo**: [moaljumaa/linki](https://github.com/moaljumaa/linki)
+- **License**: Open-Source
+- **Overview**: Self-hosted AI SDR automating LinkedIn connection requests, follow-ups, and cold email sequences in parallel. Features server-side headless LinkedIn authentication, session state persistence, and a unified inbox.
+- **Best For**: Automated multi-channel LinkedIn + cold email outreach with zero per-seat licensing fees.
 
+---
 
+### 12. 🔮 Radiant AI CRM — Autonomous AI Sales Representative Agent
+[![GitHub stars](https://img.shields.io/github/stars/dylanmeyford/radiant-ai-crm-oss?style=social&color=white)](https://github.com/dylanmeyford/radiant-ai-crm-oss/stargazers)
 
-- **[Woodpecker](https://woodpecker.co/)**  
+- **Repo**: [dylanmeyford/radiant-ai-crm-oss](https://github.com/dylanmeyford/radiant-ai-crm-oss)
+- **License**: MIT
+- **Overview**: Autonomous AI sales rep that connects to email and calendar, analyzes incoming interactions, transcribes meetings into actionable intelligence, and drafts next best sales actions.
+- **Best For**: Proactive deal pipeline management and AI-assisted sales administrative tasks.
 
-  **Cold email automation** — sequences, A/B testing, and deliverability tools. **Best for agencies and SMBs**.
+---
 
+### 13. 🛡️ Emareach — Production-Grade AI Cold Email Engine
+[![GitHub stars](https://img.shields.io/github/stars/ritik-prog/emareach?style=social&color=white)](https://github.com/ritik-prog/emareach/stargazers)
 
+- **Repo**: [ritik-prog/emareach](https://github.com/ritik-prog/emareach)
+- **License**: Open-Source
+- **Overview**: Production-grade cold email outreach engine built with FastAPI and Next.js 15. Features LLM mailbox warm-up threads, spam-to-inbox recovery, SPF/DKIM/DMARC health verification, and integrated billing infrastructure.
+- **Best For**: Launching self-hosted email outreach SaaS platforms with built-in subscription management.
 
-- **[Reply.io](https://reply.io/)**  
+---
 
-  **Multi-channel sales engagement** — email, LinkedIn, and calling sequences with AI SDR. **Best for multi-channel outreach**.
+## 🛠️ Architectural Recommendations
 
+When architecting a custom **Sales Engagement Platform (SEP)** stack using open-source building blocks:
 
+1. **Multi-Channel Orchestration**: Combine **[Linki](https://github.com/moaljumaa/linki)** for LinkedIn connection/messaging cadences with **[Emareach](https://github.com/ritik-prog/emareach)** for cold email infrastructure and deliverability warm-up.
+2. **Signal-Led Outbound**: Deploy **[Signal](https://github.com/jay-sahnan/signal)** to monitor company buying signals (hiring, funding) and automatically trigger AI-generated email sequences.
+3. **Core CRM & Pipeline**: Connect outreach components to **[Twenty CRM](https://github.com/twentyhq/twenty)** or **[EspoCRM](https://github.com/espocrm/espocrm)** as the central system of record for deal pipelines and contact history.
+4. **Meeting Booking**: Integrate **[Cal.com](https://github.com/calcom/cal.com)** for instant meeting scheduling upon positive email/LinkedIn reply detection.
 
-- **[Salesforce Sales Engagement](https://www.salesforce.com/)**  
+---
 
-  **Salesforce's native SEP** — cadences, email tracking, and Einstein AI integration. **Best for Salesforce customers**.
+## 🤝 How to Contribute
 
+Contributions are welcome! Please follow these guidelines:
 
+1. **Fork** the repository.
+2. Create a feature branch (`git checkout -b feature/add-new-sep`).
+3. Add your product/repo entry following the established formatting guidelines.
+4. Ensure SaaS entries include specific pricing, free trial info, and revenue/valuation scale.
+5. Ensure Open-Source entries include a valid star badge linking to the project's `stargazers` page.
+6. Submit a **Pull Request** with a detailed summary.
 
-## Open-Source GitHub Projects
+---
 
+## 💖 Support & Sponsorship
 
+If you find this repository helpful in evaluating or building sales engagement infrastructure:
 
-### Multi-Channel Outreach Platforms
+- ⭐ **Star this repository** on GitHub to support visibility!
+- 🔀 **Fork & Share** with fellow revenue ops, growth engineers, and sales leaders.
+- ☕ **Sponsor the Maintainer**: Support ongoing curation and open-source maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
 
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor on GitHub"/>
+  </a>
+</p>
 
+---
 
-- **[Linki](https://github.com/moaljumaa/linki)**  
+## 📈 Star History
 
-  **Open-source AI SDR for B2B outreach**, open-source . **LinkedIn sequences, cold email, and lead enrichment — self-hosted, no per-seat pricing** . **Multichannel campaigns** — LinkedIn actions (visit, connect, message) and email actions in parallel within a single campaign sequence . **Server-side LinkedIn login** — headless authentication with pinned browser fingerprint, handles LinkedIn's real challenges including email/SMS codes and mobile-app device approval . **63% improvement in connection reliability** . **Sales Navigator import** and **Apollo.io enrichment** . **Unified inbox** with email + LinkedIn reply detection . **Best for teams wanting full LinkedIn + email outreach control**.
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Sales-Engagement-Platform-Sep&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Sales-Engagement-Platform-Sep&type=date&legend=top-left)
 
+---
 
+## ⚖️ Disclaimer & Security Guidelines
 
-- **[Emareach](https://github.com/ritik-prog/emareach)**  
-
-  **Production-grade, open-source AI email marketing platform with automation, campaigns, deliverability, analytics, and self-hosting** . **Campaigns** — sequences, scheduling, per-inbox sending limits, A/B templates . **Deliverability & warm-up** — mailbox warm-up with LLM-generated threads, spam→inbox recovery, SPF/DKIM/DMARC checks . **Inboxes** — connect Gmail/Outlook via OAuth or SMTP/IMAP app passwords . **Billing** — Razorpay (India) and Lemon Squeezy (international) plans . **Admin panel** — user, plan, warm-up, and infrastructure management . **Tech stack**: FastAPI, Next.js 15, MongoDB, Terraform/Caddy . **Best for production email outreach with billing and admin**.
-
-
-
-- **[OutreachPro](https://socket.dev/npm/package/outreachpro)**  
-
-  **AI-powered B2B sales engagement platform — self-hosted Instantly.ai clone**, MIT licensed . **Google Maps scraper** — find local businesses via Apify, auto-import leads . **Claude AI personalisation** — unique opening line per lead using business data . **Campaign sequences** — multi-step emails with delays, stop-on-reply, daily limits . **Unibox** — unified reply inbox with AI auto-labelling (Interested / Not now / Meeting) . **CRM pipeline** — Kanban from Prospect → Won, drag-and-drop, pipeline value . **Email warmup** — slow-ramp sending to build sender reputation . **6-language i18n** — EN / DE / FR / ES / IT / NL . **One Docker command to run** . **Best for self-hosted cold email with AI personalization**.
-
-
-
-### AI Sales Intelligence & Outreach
-
-
-
-- **[Signal](https://github.com/jay-sahnan/signal)**  
-
-  **Open-source AI sales intelligence and outreach automation** — the open alternative to Clay, Apollo, and Outreach . **Signals engine** — authorable "recipes" that watch companies and surface buying triggers (hiring changes, funding news, product launches, review shifts) . **Contact enrichment** — pulls LinkedIn, GitHub, and company pages into a single profile . **Outreach sequences** — multi-step emails sent from your own Gmail with reply/bounce tracking . **Browser automation** — Browserbase + Stagehand for sites without APIs . **Own your data** — Postgres + RLS on your Supabase; bring your own LLM keys . **Tech stack**: Next.js 16, Supabase, Anthropic Claude, Tailwind CSS 4 . **Best for AI-powered signal-based outreach**.
-
-
-
-- **[OpenOutreach](https://pypi.org/project/openoutreach/)**  
-
-  **Autonomous lead discovery and qualification agent for B2B sales**, open-source . **Autonomous Lead Discovery** — LLM turns your product + objective into opening keywords, grows them by counting words appearing in accepted profiles . **A Reason Per Lead** — every qualified lead carries the LLM's written rationale for choosing it . **Licensed Discovery** — firmographic profiles from licensed provider (BetterContact Lead Finder), no scraping . **Built-in CRM** — Django Admin for browsing Leads, Companies and Deals . **Stateful Pipeline** — fully resumable, nothing scheduled in advance . **One-Command Install** — `uvx openoutreach find 10` . **Best for autonomous lead generation**.
-
-
-
-- **[Radiant AI CRM](https://github.com/dylanmeyford/radiant-ai-crm-oss)**  
-
-  **Open-source AI CRM that acts as an agent to proactively run sales**, open-source . **Connects to email and calendar** — no data entry, no manual syncing . **Analyzes every activity automatically** — emails, meetings, and interactions processed into actionable intelligence . **Joins and analyses every meeting** — extracts key insights, updates CRM automatically . **Processes every deal and drafts the next best action** . **Consumes files and playbooks** — learns your process and follows it . **Researches and enriches contacts and deals** . **Tech stack**: TypeScript, Express, MongoDB, Stripe, Nylas, React/Vite . **Best for autonomous AI-driven sales**.
-
-
-
-### Email Marketing & Automation Foundations
-
-
-
-- **[Mautic](https://github.com/mautic/mautic)**  
-
-  **The world's largest open-source marketing automation platform**, GPL licensed with **10,532 GitHub stars, 3,453 forks, and 13 years of development** . **Used by 40,000+ companies** . **Features**: drag-and-drop campaign builder, email and landing page creation, contact management with lead scoring, segments, forms, and REST API . **The deepest automation builder in open source** — multi-step campaigns, conditional branches on opens and clicks, lead scoring . **Trade-off**: Heavy stack — web server, PHP-FPM, MySQL, cron, and queue; first installs commonly take days to tune  . **Best for comprehensive open-source marketing automation**.
-
-
-
-- **[Listmonk](https://github.com/knadh/listmonk)**  
-
-  **High-performance newsletter and mailing list manager**, AGPL-3.0 licensed with **23,200+ GitHub stars** . **Single Go binary** with Vue UI — minimal dependencies, only PostgreSQL required . **Send millions of emails from your own SMTP** with no per-subscriber pricing . **Subscriber management, campaign analytics, and segmentation** . **The de facto open-source newsletter alternative** — but **no built-in automation, drip sequences, or triggered emails**  . **Best for high-volume newsletters and mailing lists**.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Zenvio** — Sales engagement platform with email outreach, WhatsApp/Instagram/Messenger team inbox, CRM, and visual automation builder .
-
-- **reachgenie** — AI-powered sales automation with email campaigns, AI enrichment, and Bland AI call execution .
-
-- **Gmail MCP Agent** — Open-source Gmail outreach and lead nurturing via MCP, with CSV-driven outreach and automated follow-up sequences .
-
-- **opengtm** — AI-powered lead discovery, ICP scoring, and outreach sequences with Claude Code integration, MIT licensed .
-
-- **b2b-lead-intelligence** — Python SDK for B2B company and decision-maker lead intelligence, open-source Apollo/Proxycurl alternative .
-
-- **Linki** — Already listed. **Self-hosted LinkedIn + email AI SDR** .
-
-
-
-**Frameworks for building custom SEP solutions**: Combine **Linki** for multi-channel LinkedIn + email outreach with server-side authentication and unified inbox . Use **Emareach** for production email campaigns with deliverability warm-up and billing infrastructure . Deploy **Signal** for AI-powered buying signal detection and signal-based outreach sequences . Integrate **Mautic** when deep marketing automation with visual campaign builder and lead scoring is required . Choose **Listmonk** for high-volume newsletter delivery with minimal operational overhead . Use **OutreachPro** for a complete self-hosted Instantly.ai alternative with Claude AI personalization . Note that true enterprise SEP with AI-powered conversation intelligence, real-time coaching, and vendor-supported SLAs (Salesloft, Outreach, Apollo.io) remains primarily commercial territory; open-source stacks provide strong multi-channel sequences, AI personalization, and deliverability foundations that require integration for complete sales engagement operations.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Sales engagement platforms handle sensitive prospect data and may process PII. Self-hosted solutions require proper security hardening, access controls, and compliance with data privacy regulations (GDPR, CCPA, CAN-SPAM, CASL).
-
-- **Email deliverability requires IP reputation management** — self-hosted platforms must warm up IPs, configure SPF/DKIM/DMARC, and monitor blacklists. Commercial platforms provide managed deliverability .
-
-- **LinkedIn automation carries account risk** — server-side login and human-like pacing reduce but do not eliminate the risk of account restrictions. Use responsibly and within LinkedIn's terms of service .
-
-- **License considerations**: Linki is open-source , Emareach is open-source , OutreachPro uses MIT , Signal is open-source , Mautic uses GPL , and Listmonk uses AGPL-3.0 . Verify licensing against your use case before committing.
-
-- The open-source ecosystem provides strong multi-channel sequences, AI personalization, and deliverability foundations, but **AI-powered conversation intelligence, real-time coaching, and vendor-supported SLAs** remain primarily commercial offerings.
+- **Community Curated**: This list is maintained for informational and educational purposes — listing does not constitute formal vendor endorsement.
+- **Data Compliance & Privacy**: Sales engagement tools handle sensitive contact records and prospect data. Implement appropriate technical controls to comply with GDPR, CCPA, CAN-SPAM, CASL, and regional data privacy standards.
+- **Deliverability & Warm-up**: Email sending domains require careful DNS authentication (SPF, DKIM, DMARC, custom tracking domains) and gradual sending volume warm-up to prevent inbox provider flagging.
+- **LinkedIn Automation Safety**: Automated LinkedIn actions carry risk of platform restrictions. Use human-like pacing, randomized delays, and server-side state persistence responsibly.
+- **Maintained by**: [ishandutta2007](https://github.com/ishandutta2007) | Curated for [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
