@@ -72,12 +72,12 @@ This repository tracks top-tier **commercial sales engagement platforms (SEPs)**
 
 Below is a curated selection of premier **open-source sales engagement platforms, AI SDR agents, CRM foundations, and multi-channel outreach tools**.
 
-*Sorted by **GitHub Star Count** in descending order.*
+*Sorted by **GitHub Stars_Count** in descending order.*
 
 ---
 
 ### 1. 🥇 Twenty CRM — Open-Source Enterprise SEP & CRM
-[![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
 
 - **Repo**: [twentyhq/twenty](https://github.com/twentyhq/twenty)
 - **License**: AGPL-3.0
@@ -87,7 +87,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 2. 🥈 Cal.com — Open-Source Scheduling Infrastructure
-[![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)
 
 - **Repo**: [calcom/cal.com](https://github.com/calcom/cal.com)
 - **License**: AGPL-3.0
@@ -97,7 +97,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 3. 🥉 Chatwoot — Customer & Prospect Engagement Platform
-[![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
 
 - **Repo**: [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
 - **License**: MIT
@@ -107,7 +107,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 4. ⚡ Activepieces — Open-Source Business & Sales Automation
-[![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
 
 - **Repo**: [activepieces/activepieces](https://github.com/activepieces/activepieces)
 - **License**: MIT
@@ -117,7 +117,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 5. ✉️ Listmonk — High-Performance Bulk Email & Newsletter Engine
-[![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
 
 - **Repo**: [knadh/listmonk](https://github.com/knadh/listmonk)
 - **License**: AGPL-3.0
@@ -127,7 +127,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 6. 📢 Mautic — World's Largest Marketing & Sales Automation Engine
-[![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
 
 - **Repo**: [mautic/mautic](https://github.com/mautic/mautic)
 - **License**: GPL-3.0
@@ -137,7 +137,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 7. 💼 SuiteCRM — Open-Source Enterprise Sales CRM
-[![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
 
 - **Repo**: [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM)
 - **License**: AGPL-3.0
@@ -147,7 +147,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 8. 🌐 Erxes — Open-Source Experience & Sales Engagement Suite
-[![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
 
 - **Repo**: [erxes/erxes](https://github.com/erxes/erxes)
 - **License**: AGPL-3.0
@@ -157,7 +157,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 9. 🗂️ EspoCRM — Lightweight Sales & Lead Management Platform
-[![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)
 
 - **Repo**: [espocrm/espocrm](https://github.com/espocrm/espocrm)
 - **License**: GPL-3.0
@@ -167,7 +167,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 10. 🎯 Signal — AI Sales Intelligence & Signal-Based Outreach
-[![GitHub stars](https://img.shields.io/github/stars/jay-sahnan/signal?style=social&color=white)](https://github.com/jay-sahnan/signal/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/jay-sahnan/signal?style=social&color=white)](https://github.com/jay-sahnan/signal/stargazers)
 
 - **Repo**: [jay-sahnan/signal](https://github.com/jay-sahnan/signal)
 - **License**: MIT
@@ -177,7 +177,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 11. 🤖 Linki — Open-Source Multi-Channel AI SDR
-[![GitHub stars](https://img.shields.io/github/stars/moaljumaa/linki?style=social&color=white)](https://github.com/moaljumaa/linki/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/moaljumaa/linki?style=social&color=white)](https://github.com/moaljumaa/linki/stargazers)
 
 - **Repo**: [moaljumaa/linki](https://github.com/moaljumaa/linki)
 - **License**: Open-Source
@@ -187,7 +187,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 12. 🔮 Radiant AI CRM — Autonomous AI Sales Representative Agent
-[![GitHub stars](https://img.shields.io/github/stars/dylanmeyford/radiant-ai-crm-oss?style=social&color=white)](https://github.com/dylanmeyford/radiant-ai-crm-oss/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/dylanmeyford/radiant-ai-crm-oss?style=social&color=white)](https://github.com/dylanmeyford/radiant-ai-crm-oss/stargazers)
 
 - **Repo**: [dylanmeyford/radiant-ai-crm-oss](https://github.com/dylanmeyford/radiant-ai-crm-oss)
 - **License**: MIT
@@ -197,7 +197,7 @@ Below is a curated selection of premier **open-source sales engagement platforms
 ---
 
 ### 13. 🛡️ Emareach — Production-Grade AI Cold Email Engine
-[![GitHub stars](https://img.shields.io/github/stars/ritik-prog/emareach?style=social&color=white)](https://github.com/ritik-prog/emareach/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ritik-prog/emareach?style=social&color=white)](https://github.com/ritik-prog/emareach/stargazers)
 
 - **Repo**: [ritik-prog/emareach](https://github.com/ritik-prog/emareach)
 - **License**: Open-Source
@@ -225,7 +225,7 @@ Contributions are welcome! Please follow these guidelines:
 2. Create a feature branch (`git checkout -b feature/add-new-sep`).
 3. Add your product/repo entry following the established formatting guidelines.
 4. Ensure SaaS entries include specific pricing, free trial info, and revenue/valuation scale.
-5. Ensure Open-Source entries include a valid star badge linking to the project's `stargazers` page.
+5. Ensure Open-Source entries include a valid Stars_Badge linking to the project's `stargazers` page.
 6. Submit a **Pull Request** with a detailed summary.
 
 ---
